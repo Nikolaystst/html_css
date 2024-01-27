@@ -1,4 +1,5 @@
 p {
   font-weight: bold;
   background-color: coral;
+  border: blue 2px solid;
 }
