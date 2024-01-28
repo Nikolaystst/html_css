@@ -1,0 +1,39 @@
+article {
+    padding: 2em 2em;
+    background-color: rgb(238, 238, 238);
+}
+
+h2 {
+    font-size: 36px;
+    color: rgb(51, 51, 51);
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    color: rgb(51, 51, 51);
+}
+
+li {
+    color: rgb(51, 51, 51);
+}
+
+header {
+    width: 65%;
+    padding-bottom: 1.5em;
+}
+
+section {
+    width: 65%;
+}
+
+section img {
+    width: 65%;
+    height: auto;
+}
+
+aside {
+    position: absolute;
+    top: 30px;
+    right: 80px;
+    width: 30%;
+}
