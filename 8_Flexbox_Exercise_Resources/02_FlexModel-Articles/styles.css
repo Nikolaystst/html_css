@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    max-width: 70vw;
+    gap: 2em;
+}
+
+h2 {
+    font-family: 'Georgia', serif;
+    line-height: 1.2em;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    line-height: 1.5em;
+}
