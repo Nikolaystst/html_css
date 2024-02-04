@@ -1,0 +1,40 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    border-bottom: 2px rgb(0 0 0) solid;
+    display: flex;
+    font-family: 'Helvetica', sans-serif;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+a {
+    color: rgb(0 153 0);
+    text-decoration: none;
+    margin: 1em;
+}
+
+header h1 {
+    flex-basis: 80%;
+    text-transform: uppercase;
+}
+
+main {
+    font-family: serif;
+    font-size: 22px;
+}
+
+main h2 {
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 12px;
+}
